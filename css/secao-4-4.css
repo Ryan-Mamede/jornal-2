@@ -1,0 +1,125 @@
+.bigb {
+    width: 99%;
+    border-radius: 10px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -610px;
+    height: 269%;
+  }
+  
+  .container-6 {
+    position: absolute;
+    width: 45%;
+    border-radius: 10px;
+    margin-top: -15px;
+    height: 18%;
+   
+  }
+  
+  .legenda-6 {
+    position: absolute;
+    margin-top: 31%;
+    color: white;
+    margin-left: -101%;
+    height: 100%;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .legenda h1 {
+    margin: 0;
+  }
+  
+  .titulo-tv-famosos {
+    margin-top: -1px;
+  }
+
+  .legenda-6 {
+     background: #5e94b6;
+      width: 97.1%;
+      border-radius: 0 0 10px 10px;
+      position: absolute;
+      padding: 6px;
+      font-family: 'Nunito Sans', sans-serif;
+  }
+  
+   .branco-2, .sombra-2 {
+      width: 30px;
+      height: 4px;
+      background-color: white;
+      position: absolute;
+      margin-top: -30px;
+    }
+  
+    .sombra-2 {
+      right: 30px;
+      background-color: #ffffff8a;
+    }
+  
+    .branco-2 {
+      right: 75px;
+    }
+
+    .bigb-2 {
+      width: 99%;
+      border-radius: 10px;
+      z-index: -1;
+      position: absolute;
+      margin-left: -610px;
+      height: 269%;
+    }
+    
+    .container-6-1 {
+      position: absolute;
+      width: 45%;
+      border-radius: 10px;
+      margin-top: 60%;
+      height: 22%;
+      margin-left: -10%;
+     
+    }
+    
+    .legenda-6-1 {
+      position: absolute;
+      margin-top: 41%;
+      color: white;
+      margin-left: -101%;
+      height: 100%;
+      font-family: 'Nunito Sans', sans-serif;
+    }
+    
+    .legenda-6-1 h1 {
+      margin: 0;
+    }
+    
+    .titulo-tv-famosos-2 {
+      margin-top: 30px;
+    }
+  
+    .legenda-6-1 {
+        background: #5e94b6;
+        width: 97.1%;
+        border-radius: 0 0 10px 10px;
+        position: absolute;
+        padding: 6px;
+        font-family: 'Nunito Sans', sans-serif;
+        margin-top: 40%;
+    }
+    
+     .branco-2-1, .sombra-2-1 {
+        width: 30px;
+        height: 4px;
+        background-color: white;
+        position: absolute;
+        margin-top: -30px;
+      }
+    
+      .sombra-2-1 {
+        right: 30px;
+        background-color: #ffffff8a;
+      }
+    
+      .branco-2-1 {
+        right: 75px;
+      }
+  
+  

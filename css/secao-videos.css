@@ -1,0 +1,93 @@
+
+.secao-entretenimento-2 {
+  margin-left: -55%;
+  margin-top: 32%;
+  position: absolute;
+}
+
+.secao-entretenimento-3 {
+  margin-left: -43%;
+  margin-top: 32%;
+  position: absolute;
+}
+
+.secao-entretenimento-4 {
+    margin-left: -7.5%;
+    margin-top: 32%;
+    position: absolute; 
+}
+
+.secao-entretenimento-5 {
+    margin-left: 3%;
+    margin-top: 30.5%;
+    position: absolute; 
+}
+
+.container-7 section {
+    background-color: #fff;
+    border-radius: 10px;
+    display: grid;
+    grid-auto-rows: 168px;
+    height: 50%;
+    width: 22%;
+  }
+  
+  .container-7 section div {
+    grid-column: span 2;
+    grid-row: span 1;
+    
+  }
+  
+.image-videos-container {
+    position: relative;
+  }
+  
+.image-videos-container img {
+    border-radius: 10px 10px 0 0;
+    height: 180px;
+    max-width: 295px;
+    object-fit: cover;
+  }
+  
+  .image-videos-container span {
+    border-radius: 16px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 9px;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+  }
+  
+  .titulo-videos {
+    padding: 22px;
+    position: relative;
+  }
+  
+   .titulo-videos h3 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 15px 0;
+   
+  }
+  
+  .titulo-videos h2 {
+    color: #4b4c45;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  
+  .titulo-videos span {
+    background-color: #ad3ecf;
+    border-radius: 50%;
+    box-sizing: content-box;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 13px 17px;
+    position: absolute;
+    top: -26px;
+  }

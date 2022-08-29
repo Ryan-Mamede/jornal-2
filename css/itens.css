@@ -1,0 +1,184 @@
+.astrologia {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    grid-column: span 4;
+    grid-row: span 1;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 144.2%;
+    width: 49%;
+    margin-left: 48%;
+    height: 33%;
+}
+
+.astrologia div {
+    padding: 0 40px;
+    text-align: center;
+}
+
+.titulo-astro {
+    color: black;
+    margin-top: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+ .titulo-astro-2 {
+    font-size: 20px;
+    line-height: 10px;
+    margin-top: -10px;
+    color: blue;
+}
+
+.astrologia img {
+    margin: 5px 0;
+    width: 20%;
+    margin-top: -28px;
+}
+
+.astro-descricao {
+    margin-top: -15px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.bolsa {
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    grid-column: span 2;
+    grid-row: span 1;
+    border-radius: 10px;
+    margin-top: 161%;
+    margin-left: 48%;
+    width: 24%;
+    height: 27%;
+  }
+  
+  .bolsa h2 {
+    font-size: 18px;
+    line-height: -10px;
+    text-align: center;
+    display: block;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .bolsa ul {
+    list-style: none;
+    margin: 0 auto;
+    width: fit-content;
+  }
+  
+  .bolsa ul li {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px 0;
+  }
+  
+  .bolsa h4, .bolsa span {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+  }
+  
+  .bolsa span {
+    margin-left: 15px;
+    color: #4a6acc;
+  }
+
+  .dolar-t {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: 25%;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  .value {
+    position: absolute;
+    margin-top: -58px;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  .dolar-t-2 {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  .value-2 {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  .dolar-t-3 {
+    position: absolute;
+    margin-top: 30%;
+    margin-right: 25%;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+
+  .value-3 {
+    position: absolute;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 23%;
+  }
+
+  .dolar-t-4 {
+    position: absolute;
+    margin-top: 50%;
+    margin-right: 25%;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  .value-4 {
+    position: absolute;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 44%;
+  }
+
+  .mega-sena {
+    position: absolute;
+    background-color: #fff;
+    grid-column: span 2;
+    grid-row: span 1;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 161%;
+    margin-left: 74%;
+    width: 21%;
+  }
+  
+  .mega-sena h2 {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .mega-sena ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 220px;
+  }
+  
+  .mega-sena ul span {
+    display: flex;
+    font-size: 14px;
+    font-weight: bold;
+    color: #59b176;
+    border: 2px solid #59b176;
+    border-radius: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 2px 10px;
+    margin-right: 25px;
+  }
+
+
+ 

@@ -1,0 +1,22 @@
+.divisao-video {
+    width: 1259px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin-top: 109%;
+  }
+  
+  .divisao-video h3 {
+    margin-right: 20px;
+    min-width: 162px;
+    font-family: 'Nunito Sans', sans-serif;
+    color: rgb(65, 65, 65);
+  }
+  
+  .divisao-video div {
+    width: 85%;
+    height: 1px;
+    background-color: #4b4c45;
+  }

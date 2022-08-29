@@ -1,0 +1,17 @@
+html{
+    background: #eee8e8;
+}
+
+.divisao {
+    width: 950%;
+  }
+  
+
+
+@font-face {
+    font-family: nunito-sans;
+    src: url('nunito-sans.regular.ttf'), format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

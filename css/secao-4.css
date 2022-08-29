@@ -1,0 +1,114 @@
+.coluna-noticia-3 {
+    display: grid;
+    grid-column: span 4;
+    grid-row: span 3;
+    align-content: space-between;
+    border-radius: 10px;
+    width: 109.5%;
+    margin-left: 105.5%;
+    margin-top: -315px;
+   
+  }
+  
+.coluna-noticia-3 article {
+    background-color: #fff;
+    border-radius: 10px;
+    max-height: 105px;
+    margin: 10px;
+  }
+  
+ .coluna-noticia-3-3 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+  }
+  
+.coluna-noticia-3-3 img {
+    width: 40%;
+    height: 100%;
+    border-radius: 10px;
+    margin-top: -30px;
+  }
+  
+.coluna-noticia-3 h3 {
+    font-size: 10px;
+    line-height: 14px;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .coluna-noticia-3 h2 {
+    font-size: 20px;
+    line-height: 25px;
+    color: #4d4d4d;
+    margin-top: 5px;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .esporte-n {
+    color: green;
+    margin-top: -30px;
+  }
+  
+  .elenco {
+    color: #659fc4;
+    margin-top: -10px;
+  }
+
+  .coluna-noticia-8 {
+    display: grid;
+    grid-column: span 4;
+    grid-row: span 3;
+    align-content: space-between;
+    border-radius: 10px;
+    width: 48.9%;
+    margin-left: 52.6%;
+    margin-top: -698px;
+   
+  }
+  
+.coluna-noticia-8 article {
+    background-color: #fff;
+    border-radius: 10px;
+    max-height: 180px;
+    margin: 10px;
+    height: 90%;
+  
+  }
+  
+ .coluna-noticia-3-8 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+  }
+  
+.coluna-noticia-3-8 img {
+    width: 28%;
+    height: 100%;
+    border-radius: 10px;
+    margin-top: -30px;
+  }
+  
+.coluna-noticia-8 h3 {
+    font-size: 10px;
+    line-height: 17.8px;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .coluna-noticia-8 h2 {
+    font-size: 20px;
+    line-height: 25px;
+    color: #4d4d4d;
+    margin-top: 5px;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .esporte-n-8 {
+    color: green;
+    margin-top: -30px;
+  }
+  .elenco-8 {
+    color: #659fc4;
+    margin-top: -10px;
+  }
